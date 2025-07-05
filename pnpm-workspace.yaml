@@ -1,0 +1,5 @@
+onlyBuiltDependencies:
+  - keccak
+  - sharp
+  - styled-components
+  - unrs-resolver
