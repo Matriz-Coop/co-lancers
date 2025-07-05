@@ -1,4 +1,10 @@
 {
+  "components/WorldIdWidget.tsx -> @worldcoin/id": {
+    "id": "components/WorldIdWidget.tsx -> @worldcoin/id",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_worldcoin_id_0_1_0__babel_core_7_28_0_bufferutil_4_0_9_r-e8cb0b.js"
+    ]
+  },
   "node_modules/.pnpm/@rainbow-me+rainbowkit@2.2.8_@tanstack+react-query@5.81.5_react@18.3.1__@types+react@18_3b2b214d9d2c244005bc57fff17f2ad0/node_modules/@rainbow-me/rainbowkit/dist/index.js -> ./Arc-VDBY7LNS.js": {
     "id": "node_modules/.pnpm/@rainbow-me+rainbowkit@2.2.8_@tanstack+react-query@5.81.5_react@18.3.1__@types+react@18_3b2b214d9d2c244005bc57fff17f2ad0/node_modules/@rainbow-me/rainbowkit/dist/index.js -> ./Arc-VDBY7LNS.js",
     "files": [
