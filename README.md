@@ -1,4 +1,4 @@
-# Co-Lancers dApp
+# CoLancers dApp
 
 A decentralized application that allows freelancers to join collaborative service teams, get paid fairly, and build verified reputation using ENS names, World ID verification, and Flare's FDC for skill verification.
 
