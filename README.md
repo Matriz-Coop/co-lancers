@@ -49,7 +49,7 @@ A decentralized application that allows freelancers to join collaborative servic
 - Node.js 18+ 
 - pnpm
 - MetaMask or other Web3 wallet
-- ENS name (optional but recommended)
+- ENS subdomain (obligatory)
 - World ID app (for production)
 
 ## Installation
